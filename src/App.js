@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="app_headerImage">
+        
       <img 
       className='app_headerImage'
       src="https://instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"
